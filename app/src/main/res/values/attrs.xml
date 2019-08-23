@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TemperatureTextView">
+        <attr name="mainText" format="string"></attr>
+        <attr name="rightText" format="string"></attr>
+        <attr name="mainTextColor" format="color"></attr>
+        <attr name="righttextColor" format="color"></attr>
+        <attr name="mainTextSize" format="dimension"></attr>
+        <attr name="righttextSize" format="dimension"></attr>
+        <attr name="dotTextColor" format="color"></attr>
+    </declare-styleable>
+</resources>
